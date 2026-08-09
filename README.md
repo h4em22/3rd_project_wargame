@@ -61,4 +61,4 @@ Burp Suite(Proxy/Repeater/Intruder), gobuster, nmap, Python(requests, hashlib, P
 
 ## 팀 구성
 
-8low8lowme(= "Follow Follow me") — 김혜미, 정슬기, 김유선, 이찬근, 조경익
+8low8lowme(= "Follow Follow me") — 김혜미 외 4명
