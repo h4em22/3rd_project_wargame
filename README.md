@@ -11,18 +11,18 @@
 
 ## 저장소 구성
 
-| 문제 | 워크스루 | 출제자 |
-|---|---|---|
-| Problem 01 — Stopwatch | [`Problem01_Stopwatch_워크스루.pdf`](<./Problem01_Stopwatch_워크스루.pdf>) | |
-| Problem 02 — TimeLeak | [`Problem02_TimeLeak_워크스루.pdf`](<./Problem02_TimeLeak_워크스루.pdf>) | |
-| Problem 03 — JWT Forgery | [`Problem03_JWT_Forgery_워크스루.pdf`](<./Problem03_JWT_Forgery_워크스루.pdf>) | |
-| Problem 04 — Lost Schema | [`Problem04_Lost_Schema_워크스루.pdf`](<./Problem04_Lost_Schema_워크스루.pdf>) | |
-| Problem 05 — Android Pattern Lock | [`Problem05_AndroidPatternLock_워크스루.pdf`](<./Problem05_AndroidPatternLock_워크스루.pdf>) | 김혜미 출제 |
-| Problem 06 — Guide NPC | [`Problem06_GuideNPC_워크스루.pdf`](<./Problem06_GuideNPC_워크스루.pdf>) | 김혜미 출제 |
-| Problem 07 — ESTsoft ALZ 파일 검증기(File Upload) | [`Problem07_File_Upload_워크스루.pdf`](<./Problem07_File_Upload_워크스루.pdf>) | 김혜미 출제 |
-| Problem 08 — Hidden Keys | [`Problem08_HiddenKeys_워크스루.pdf`](<./Problem08_HiddenKeys_워크스루.pdf>) | 김혜미 출제 |
-| Problem 09 — Reflected XSS | [`Problem09_ReflectedXSS_워크스루.pdf`](<./Problem09_ReflectedXSS_워크스루.pdf>) | 김혜미 출제 |
-| Problem 10 — Blind Administrator | [`Problem10_Blind_Administrator_워크스루.pdf`](<./Problem10_Blind_Administrator_워크스루.pdf>) | |
+| 문제 | 워크스루 |
+|---|---|
+| Problem 01 — Stopwatch | [`Problem01_Stopwatch_워크스루.pdf`](<./Problem01_Stopwatch_워크스루.pdf>) |
+| Problem 02 — TimeLeak | [`Problem02_TimeLeak_워크스루.pdf`](<./Problem02_TimeLeak_워크스루.pdf>) |
+| Problem 03 — JWT Forgery | [`Problem03_JWT_Forgery_워크스루.pdf`](<./Problem03_JWT_Forgery_워크스루.pdf>) |
+| Problem 04 — Lost Schema | [`Problem04_Lost_Schema_워크스루.pdf`](<./Problem04_Lost_Schema_워크스루.pdf>) |
+| Problem 05 — Android Pattern Lock | [`Problem05_AndroidPatternLock_워크스루.pdf`](<./Problem05_AndroidPatternLock_워크스루.pdf>) |
+| Problem 06 — Guide NPC | [`Problem06_GuideNPC_워크스루.pdf`](<./Problem06_GuideNPC_워크스루.pdf>) |
+| Problem 07 — ESTsoft ALZ 파일 검증기(File Upload) | [`Problem07_File_Upload_워크스루.pdf`](<./Problem07_File_Upload_워크스루.pdf>) |
+| Problem 08 — Hidden Keys | [`Problem08_HiddenKeys_워크스루.pdf`](<./Problem08_HiddenKeys_워크스루.pdf>) |
+| Problem 09 — Reflected XSS | [`Problem09_ReflectedXSS_워크스루.pdf`](<./Problem09_ReflectedXSS_워크스루.pdf>) |
+| Problem 10 — Blind Administrator | [`Problem10_Blind_Administrator_워크스루.pdf`](<./Problem10_Blind_Administrator_워크스루.pdf>) |
 
 ## 문제 목록 요약
 
